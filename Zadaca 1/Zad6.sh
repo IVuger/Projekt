@@ -1,4 +1,5 @@
+echo Upisi velicinu od koje zeliz traziti:
+read -r b
 
-
-find ~/  -size +5M -exec tar -rvf /home/ivan/Projekt/all-files.tbz "{}" \;
+find ~/  -size +$b -exec tar -rvf /home/ivan/Projekt/backup.tbz "{}" \;
 
