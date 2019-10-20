@@ -1,3 +1,3 @@
 # Projekt
 
-Repozitorij za spremanje/predaju zadaće ze projekt na FERu.
+Repozitorij za spremanje/predaju zadaće za projekt na FERu.
